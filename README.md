@@ -1,4 +1,4 @@
-# Coffee, Books & Flowers Website
+# Coffee, Books & Flowers Product Landing Website
 
 Welcome to the **Coffee, Books & Flowers** website repository! This project is a responsive, modern, and user-friendly website that blends the joys of artisanal coffee, curated books, and fresh flowers into a single platform.
 
